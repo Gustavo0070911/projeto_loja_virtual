@@ -11,7 +11,7 @@ programa
       cadeia tecla_pausa = ""
 
       // Preços e Estoques fixos dos Produtos
-      real preco_prod1 = 150.0, preco_prod2 60.0, preco_prod3 = 250.0 
+      real preco_prod1 = 150.0, preco_prod2 = 60.0, preco_prod3 = 250.0 
       inteiro estoque_prod1 = 10, estoque_prod2 = 15, estoque_prod3 = 8
 
       // Variáveis do CARRINHO DE COMPRAS (Qtds dos Itens)
